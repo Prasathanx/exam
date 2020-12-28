@@ -1,0 +1,7 @@
+  #hwreport
+  HOSTNAME=
+  MEMORY=
+  BIOS=
+  CPU=
+  VDA_DISK_SIZE=
+  VDB_DISK_SIZE=
