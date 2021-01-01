@@ -1,0 +1,9 @@
+users:
+  - name: john
+    job: developer
+  - name: rekha
+    job: developer
+  - name: sarath
+    job: manager
+  - name: kutti
+    job: developer
